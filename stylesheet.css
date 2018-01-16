@@ -44,8 +44,9 @@ header #yousseflogo{
 	max-width:200px;
 }
 
-@@media(max-width: 768px){
+@media(max-width: 768px){
 	body,
+	*,
 	header #yousseflogo,
 	header nav,
 	header nav li{
